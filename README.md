@@ -29,6 +29,8 @@ from first principles, and it does not resolve the Hubble tension.
   \(r = 4.9/12\). The hierarchical tail is \(T = r/(1-r) = 49/71\).
 - **Assumption:** \(T \equiv \Omega_{DE}\) today in a flat universe.
 
+The single non-derived input is the assumption that harmonic structure — the physical octave discretised into the minimal 12-fold period — is scale-invariant and applies to the hierarchical vacuum / dark-energy sector. All other numbers (the 1:11 rule, the density \(49/71\), etc.) follow from that assumption together with the requirement to remain on the planar Euclidean/hyperbolic boundary for squares while staying mixed.
+
 If those axioms hold, the 12-period does not drift, so dark energy is
 **static** (\(w = -1\)) at least at the present. A resonance that wanders
 over cosmic time is a different model.
